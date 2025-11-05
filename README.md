@@ -14,4 +14,29 @@ This repository is for the paper, "Multilingual Verbalisation of Knowledge Graph
 - Claire Gardent (CNRS/Loria & Université de Lorraine)
 
 ## Citation
-If you find this repo useful, please cite: [TODO]
+If you find this repo useful, please cite: 
+
+
+```bibtex
+
+@inproceedings{song-etal-2025-multilingual-verbalisation,
+    title = "Multilingual Verbalisation of Knowledge Graphs",
+    author = "Song, Yifei  and
+      Martinez, William Soto  and
+      Nikiforovskaya, Anna  and
+      Chapple, Evan Parker Kelly  and
+      Gardent, Claire",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2025",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-emnlp.60/",
+    pages = "1111--1162",
+    ISBN = "979-8-89176-335-7",
+}
+```
